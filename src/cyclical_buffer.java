@@ -78,7 +78,7 @@ public class cyclical_buffer {
              
         } 
   
-        // Function called by consumer thread 
+        
         public void get() throws InterruptedException 
         { 
             while (true) 
